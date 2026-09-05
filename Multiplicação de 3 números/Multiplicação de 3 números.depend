@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1786055651 source:c:\users\guirr\desktop\aeds c\multiplicação de 3 números\main.c
+	<stdio.h>
+	<stdlib.h>
+
