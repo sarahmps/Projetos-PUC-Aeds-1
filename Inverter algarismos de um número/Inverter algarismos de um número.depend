@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1788114664 source:c:\users\guirr\desktop\aeds c\inverter algarismos de um número\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

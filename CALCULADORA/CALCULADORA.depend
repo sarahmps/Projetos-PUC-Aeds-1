@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1787356223 source:c:\users\guirr\desktop\aeds c\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

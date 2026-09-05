@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1788111931 source:c:\users\guirr\desktop\aeds c\quantidade de algarismos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
