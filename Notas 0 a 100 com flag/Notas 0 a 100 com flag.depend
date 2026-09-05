@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1788297648 source:c:\users\guirr\desktop\aeds c\notas 0 a 100 com flag\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

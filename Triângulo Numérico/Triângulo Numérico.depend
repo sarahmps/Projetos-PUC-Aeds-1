@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1788294993 source:c:\users\guirr\desktop\aeds c\triângulo numérico\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

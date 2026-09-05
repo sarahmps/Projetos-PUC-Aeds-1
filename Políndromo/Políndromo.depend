@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1788293103 source:c:\users\guirr\desktop\aeds c\políndromo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
