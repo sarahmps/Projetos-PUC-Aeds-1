@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1787360754 source:c:\users\guirr\desktop\aeds c\numeros lidos par ou impar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

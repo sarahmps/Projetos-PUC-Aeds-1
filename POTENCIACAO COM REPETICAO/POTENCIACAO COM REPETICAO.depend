@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1787358830 source:c:\users\guirr\desktop\aeds c\potenciacao com repeticao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

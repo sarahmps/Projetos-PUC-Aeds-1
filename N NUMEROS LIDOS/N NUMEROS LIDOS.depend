@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1787349675 source:c:\users\guirr\desktop\aeds c\n numeros lidos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+

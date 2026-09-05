@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1787360157 source:c:\users\guirr\desktop\aeds c\turma aprovada ou nao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
