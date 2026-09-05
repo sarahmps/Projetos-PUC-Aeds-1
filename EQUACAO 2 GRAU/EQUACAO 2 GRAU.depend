@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1786830733 source:c:\users\guirr\desktop\aeds c\equacao 2 grau\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
