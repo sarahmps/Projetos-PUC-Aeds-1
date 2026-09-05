@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1786819478 source:c:\users\guirr\desktop\aeds c\ano bissexto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

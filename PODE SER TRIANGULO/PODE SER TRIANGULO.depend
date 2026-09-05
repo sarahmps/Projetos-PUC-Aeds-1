@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1786821221 source:c:\users\guirr\desktop\aeds c\pode ser triangulo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
