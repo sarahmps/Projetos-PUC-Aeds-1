@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1789598395 source:c:\users\guirr\desktop\aeds c\numero primo com funcao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+

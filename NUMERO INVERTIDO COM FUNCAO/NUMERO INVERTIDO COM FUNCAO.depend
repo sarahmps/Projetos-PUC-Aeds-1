@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1789601176 source:c:\users\guirr\desktop\aeds c\numero invertido com funcao\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
