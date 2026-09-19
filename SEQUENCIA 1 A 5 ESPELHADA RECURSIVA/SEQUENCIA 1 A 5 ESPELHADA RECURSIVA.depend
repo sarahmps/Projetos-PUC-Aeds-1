@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1789764389 source:c:\users\guirr\desktop\aeds c\sequencia 1 a 5 espelhada recursiva\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

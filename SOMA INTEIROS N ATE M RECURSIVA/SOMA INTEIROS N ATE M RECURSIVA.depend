@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1789772661 source:c:\users\guirr\desktop\aeds c\soma inteiros n ate m recursiva\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

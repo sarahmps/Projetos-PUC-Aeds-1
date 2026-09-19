@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1789775486 source:c:\users\guirr\desktop\aeds c\potenciacao recursiva\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
