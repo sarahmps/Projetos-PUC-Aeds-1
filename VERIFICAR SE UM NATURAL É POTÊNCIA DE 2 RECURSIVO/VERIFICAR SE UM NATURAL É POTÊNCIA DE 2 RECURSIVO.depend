@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1789854225 source:c:\users\guirr\desktop\aeds c\verificar se um natural … pot ncia de 2 recursivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<stdbool.h>
+
