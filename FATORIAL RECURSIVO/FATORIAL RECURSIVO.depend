@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1789778463 source:c:\users\guirr\desktop\aeds c\fatorial recursivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
