@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1789846125 source:c:\users\guirr\desktop\aeds c\nÚmero invertido recursivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
