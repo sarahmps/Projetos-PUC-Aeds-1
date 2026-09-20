@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1789922257 source:c:\users\guirr\desktop\aeds c\binÁrio para decimal iterativo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
