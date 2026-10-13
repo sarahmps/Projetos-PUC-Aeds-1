@@ -47,20 +47,18 @@ O repositório reúne exercícios práticos que acompanham a evolução da disci
 
 Para executar os exercícios, siga os passos abaixo:
 
-1 - Baixe ou clone este repositório.
-2 - Acesse a pasta do exercício desejado.
-3 - Compile o arquivo .c utilizando um compilador C, como o GCC:
+- Baixe ou clone este repositório.
+- Acesse a pasta do exercício desejado.
+- Compile o arquivo .c utilizando um compilador C, como o GCC:
    gcc arquivo.c -o programa
 
-4 - Execute o programa:
+- Execute o programa:
 
-- Linux/macOS
-
+  Linux/macOS:
    ./programa
 
 
-- Windows
-
+  Windows:
    .\programa.exe
 
 
