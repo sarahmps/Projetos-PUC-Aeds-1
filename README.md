@@ -42,7 +42,7 @@ O repositório reúne exercícios práticos que acompanham a evolução da disci
 
 ---
 
-🚀 Como executar os projetos
+## 🚀 Como executar os projetos
 
 Para executar os exercícios, siga os passos abaixo:
 
