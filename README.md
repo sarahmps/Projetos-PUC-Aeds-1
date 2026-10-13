@@ -42,25 +42,29 @@ O repositório reúne exercícios práticos que acompanham a evolução da disci
 
 ---
 
-##🚀 Como executar os projetos
-1- Clone o repositório ou baixe os arquivos pelo GitHub.
-2- Abra a pasta do exercício que deseja executar.
-3- Compile o arquivo .c utilizando um compilador C, como o GCC:
+🚀 Como executar os projetos
+
+Para executar os exercícios, siga os passos abaixo:
+
+Baixe ou clone este repositório.
+Acesse a pasta do exercício desejado.
+Compile o arquivo .c utilizando um compilador C, como o GCC:
    gcc arquivo.c -o programa
 
-4-Execute o programa pelo terminal:
+Execute o programa:
 
-  -Linux/macOS:
+Linux/macOS
 
-     ./programa
-
-
-  -Windows:
-
-     .\programa.exe
+   ./programa
 
 
-Observação: substitua arquivo.c pelo nome do arquivo desejado. Cada exercício pode ser compilado e executado individualmente. Certifique-se de ter um compilador C instalado.
+Windows
+
+   .\programa.exe
+
+
+Observação: substitua arquivo.c pelo nome do arquivo desejado. Cada exercício deve ser compilado e executado individualmente. É necessário ter um compilador C instalado.
+
 ---
 
 ## 👩‍💻 Autora
