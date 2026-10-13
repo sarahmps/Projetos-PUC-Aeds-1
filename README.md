@@ -50,6 +50,7 @@ Para executar os exercícios, siga os passos abaixo:
 - Baixe ou clone este repositório.
 - Acesse a pasta do exercício desejado.
 - Compile o arquivo .c utilizando um compilador C, como o GCC:
+  
    gcc arquivo.c -o programa
 
 - Execute o programa:
