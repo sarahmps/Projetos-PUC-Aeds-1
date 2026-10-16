@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1792110660 source:c:\users\guirr\desktop\aeds c\nÚmero de dias no mÊs a partir do valor inteiro relativo ao mÊs com arranjo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

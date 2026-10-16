@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1792108024 source:c:\users\guirr\desktop\aeds c\ordenar um arranjo de reais em ordem crescente\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
