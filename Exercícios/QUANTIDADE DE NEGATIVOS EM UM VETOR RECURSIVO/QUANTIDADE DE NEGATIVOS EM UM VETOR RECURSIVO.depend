@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1793404450 source:c:\users\guirr\desktop\aeds c\quantidade de negativos em um vetor recursivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1793412330 source:c:\users\guirr\desktop\aeds c\maior valor em um vetor de reais iterativo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
