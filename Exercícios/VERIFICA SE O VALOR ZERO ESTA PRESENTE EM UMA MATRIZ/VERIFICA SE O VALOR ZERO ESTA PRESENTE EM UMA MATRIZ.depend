@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1793558401 source:c:\users\pichau\desktop\exercicios sarinha\verifica se o valor zero esta presente em uma matriz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
