@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1793665852 source:c:\users\guirr\desktop\aeds c\numero de vogais em uma string recursivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
