@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1793735386 source:c:\users\guirr\desktop\aeds c\verifica se duas strings sao iguais recursivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<locale.h>
+	<ctype.h>
+
